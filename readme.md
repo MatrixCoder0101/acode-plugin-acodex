@@ -1,6 +1,8 @@
 # [AcodeX - Terminal Emulator](https://github.com/bajrangCoder/acode-plugin-acodex)
 <p align="center"><img src="https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main/icon.png"/></p>
 
+> A beta version with a powerfull python formatter, if you want to use beta version copy AcodeX.zip raw url from this repo and paste it in Acode>Settings>Plugins>plus icon>Remote and paste copied zip url.
+
 **AcodeX** is a plugin for the Acode app that adds `terminal support`, making coding more productive and efficient. This plugin allows developers to execute terminal commands directly within the Acode app, eliminating the need to switch between apps for coding and terminal access.
 
 After `v1.1.0`, you will not regret after installing. I know before it was hard.
